@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * Title: MultithreadedUdpDaytimeServer
- * Description: Multithreaded UDP daytime server class for Network Programming (LA01) course
+ * Description: Multithreaded UDP daytime server class
  * Author: William Chanrico
  * Date: 7-June-2017
  */

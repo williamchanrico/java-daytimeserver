@@ -5,7 +5,7 @@ import java.net.InetAddress;
 
 /**
  * Title: UdpDaytimeTestClient
- * Description: UDP daytime server testing class for Network Programming (LA01) course
+ * Description: UDP daytime server testing class
  * Author: William Chanrico
  * Date: 7-June-2017
  */
